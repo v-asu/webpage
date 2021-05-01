@@ -1,0 +1,30 @@
+#  [[main]]
+#  name = "Home"
+#  identifier = "home"
+#  weight = 100
+#  url = "/"
+
+
+  [[main]]
+  name = "About"
+  weight = 100
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Papers"
+  weight = 200
+  identifier = "papers"
+  url = "/papers/"
+
+#  [[main]]
+#  name = "Contact"
+#  weight = 500
+#  identifier = "contact"
+#  url = "/contact/"
+  
+  [[main]]
+  name = "CV"
+  weight = 400
+  identifier = "cv"
+  url = "/cv/vasu_resume.pdf"
